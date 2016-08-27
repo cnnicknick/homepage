@@ -4,7 +4,8 @@ body,div,p,ul{margin:0;padding:0;}
 .rf{float:right;}
 
 .home{
-     height:760px;
+       	 width:1349px;
+         height:760px;
 	 border:px solid transparent;
 	 background:url(../images/bg1.jpg) no-repeat 100% 100%;
 }
@@ -114,6 +115,7 @@ li.home_top2:hover{
 
 /*****************projects*****************/
 .projects{
+   width:1349px;
    height:1080px;
    background-color:#140E14;
 }
